@@ -9,7 +9,7 @@ HTML5, CSS3, React.js
 
 React Packages
 
-Create React App,  Tachyons
+Redux, Create React App,  Tachyons
 
 APIs
 
